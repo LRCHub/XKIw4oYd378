@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Call Me",
+  "base_artist": "BOYNEXTDOOR",
+  "createdAt": "2026-03-02T13:09:14.902753Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Call Me",
+      "artist": "Carly Pearce",
+      "has_synced": true,
+      "path": "select/01_Call_Me_Carly_Pearce.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Call Me Country",
+      "artist": "Jon Pardi",
+      "has_synced": true,
+      "path": "select/02_Call_Me_Country_Jon_Pardi.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Call Me the Breeze",
+      "artist": "David Allan Coe",
+      "has_synced": true,
+      "path": "select/03_Call_Me_the_Breeze_David_Allan_Coe.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Just Call Me Lonesome",
+      "artist": "Radney Foster",
+      "has_synced": true,
+      "path": "select/04_Just_Call_Me_Lonesome_Radney_Foster.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "They Call Me Doc",
+      "artist": "CreatiVets feat. Aaron Lewis, Vince Gill & Dan Tyminski",
+      "has_synced": true,
+      "path": "select/05_They_Call_Me_Doc_CreatiVets_feat._Aaron_Lewis,_Vince_Gill_&_Dan_Tyminski.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "They Call Me Doc",
+      "artist": "CreatiVets",
+      "has_synced": true,
+      "path": "select/06_They_Call_Me_Doc_CreatiVets.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Call Me Back",
+      "artist": "Gold Necklace",
+      "has_synced": false,
+      "path": "select/07_Call_Me_Back_Gold_Necklace.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Call Me",
+      "artist": "50 Cent",
+      "has_synced": true,
+      "path": "select/08_Call_Me_50_Cent.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Call Me",
+      "artist": "Blondie",
+      "has_synced": true,
+      "path": "select/09_Call_Me_Blondie.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Call Me (12\" Instrumental Version)",
+      "artist": "Blondie",
+      "has_synced": false,
+      "path": "select/10_Call_Me_(12__Instrumental_Version)_Blondie.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Call Me (12'' Version)",
+      "artist": "Blondie",
+      "has_synced": false,
+      "path": "select/11_Call_Me_(12''_Version)_Blondie.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Call Me (Instrumental)",
+      "artist": "Blondie",
+      "has_synced": false,
+      "path": "select/12_Call_Me_(Instrumental)_Blondie.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Call Me (Spanish Version)",
+      "artist": "Blondie",
+      "has_synced": true,
+      "path": "select/13_Call_Me_(Spanish_Version)_Blondie.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Call Me",
+      "artist": "Metronomy",
+      "has_synced": true,
+      "path": "select/14_Call_Me_Metronomy.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "I Hope They Call Me on a Mission",
+      "artist": "Marc With a C",
+      "has_synced": true,
+      "path": "select/15_I_Hope_They_Call_Me_on_a_Mission_Marc_With_a_C.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Call Me",
+      "artist": "NAV feat. Metro Boomin",
+      "has_synced": true,
+      "path": "select/16_Call_Me_NAV_feat._Metro_Boomin.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Call Me The Breeze",
+      "artist": "Lynyrd Skynyrd",
+      "has_synced": true,
+      "path": "select/17_Call_Me_The_Breeze_Lynyrd_Skynyrd.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Call Me",
+      "artist": "BOYNEXTDOOR",
+      "has_synced": false,
+      "path": "select/pl_01_Call_Me_BOYNEXTDOOR.txt"
+    }
+  ]
+}
